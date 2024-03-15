@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/get-my-position-reactjs/static/css/main.cc203b5e.css",
+    "main.js": "/get-my-position-reactjs/static/js/main.f04a4fce.js",
+    "index.html": "/get-my-position-reactjs/index.html",
+    "main.cc203b5e.css.map": "/get-my-position-reactjs/static/css/main.cc203b5e.css.map",
+    "main.f04a4fce.js.map": "/get-my-position-reactjs/static/js/main.f04a4fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc203b5e.css",
+    "static/js/main.f04a4fce.js"
+  ]
+}
